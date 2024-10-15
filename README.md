@@ -1,3 +1,5 @@
 # String Manipulation Functions:
 
-# Array
+# Array Functions:
+
+# Mathematical Functions:
